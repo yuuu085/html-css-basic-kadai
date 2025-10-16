@@ -1,0 +1,32 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+html {
+  font-size: 48px;
+  text-align: center;
+}
+
+.text-pink {
+  color: rgb(255, 192, 203);
+}
+.text-skyblue {
+  color: skyblue;
+}
+
+.decoration {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 3px 3px 4px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+#parent p {
+  font-weight: bold;
+}
+
