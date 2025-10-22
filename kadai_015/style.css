@@ -3,7 +3,7 @@ body {
 }
 
 html {
-  font-size: 48px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -16,10 +16,6 @@ html {
 
 .decoration {
   font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-
   font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 3px 3px 4px gray;
@@ -29,4 +25,5 @@ html {
 #parent p {
   font-weight: bold;
 }
+
 
