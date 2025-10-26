@@ -10,6 +10,7 @@
 
 .top-child {
   width: 20%;
+  margin: 17px 0px;
   text-align: center;
   background-color: #ffd9df
 }
@@ -72,4 +73,5 @@
 #bottom-child03 {
   position: relative;
   left: 400px;
+
 }
